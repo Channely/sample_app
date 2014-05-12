@@ -2,7 +2,9 @@
 
 这里是RoR教程的工程代码
 
-点击查看教程 [*Ruby on Rails 教程*](http://railstutorial-china.org/)
+点击查看教程 : [*Ruby on Rails 教程*](http://railstutorial-china.org/)
+
+工程效果演示 : [*d229.dart-lang.cn*](http://d229.dart-lang.cn/).
 
 Code for my classmates in Network Engineering 2012,Hebei Normal. University.
 
