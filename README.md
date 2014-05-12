@@ -1,9 +1,13 @@
 # Ruby on Rails: sample_app
 
 这里是RoR教程的工程代码
+
 点击查看教程 [*Ruby on Rails 教程*](http://railstutorial-china.org/)
+
 Code for my classmates in Network Engineering 2012,Hebei Normal. University.
+
 Proudly practiced by [Channely](http://www.dart-lang.cn/).
+
 
 > 1,clone代码 
 
@@ -12,6 +16,7 @@ Proudly practiced by [Channely](http://www.dart-lang.cn/).
 > 3,然后rails s 即可
 
 > 4,打开localhost:3000 查看效果
+
 
 开发环境配置详情请参考该教程[*第一章内容*](http://railstutorial-china.org/chapter1.html#section-1-2)[推荐]
 
