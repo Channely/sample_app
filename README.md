@@ -4,7 +4,7 @@
 
 点击查看教程 : [*Ruby on Rails 教程*](http://railstutorial-china.org/)
 
-工程效果演示 : [*d229.dart-lang.cn*](http://d229.dart-lang.cn/).
+工程效果演示 : [*d229*](https://railsun.herokuapp.com/).
 
 Code for my classmates in Network Engineering 2012,Hebei Normal. University.
 
